@@ -119,7 +119,7 @@
         <include>
             <uri>model://aws_robomaker_residential_ChairA_01</uri>
         </include>
-        <pose frame=''>7.11516 0.209028 0.024685 1e-06 -0 -1.55607</pose>
+        <pose frame=''>7.06516 0.209028 0.024685 1e-06 -0 -1.55607</pose>
 	</model>
 	<model name='ChairA_01_002'>
         <static>true</static>    
@@ -133,7 +133,7 @@
         <include>
             <uri>model://aws_robomaker_residential_ChairA_01</uri>
         </include>
-        <pose frame=''>6.06678 1.68075 0.01 0 -0 1.56986</pose>
+        <pose frame=''>6.11678 1.68075 0.01 0 -0 1.56986</pose>
 	</model>
 	<model name='ChairA_01_004'>
         <static>true</static>    
