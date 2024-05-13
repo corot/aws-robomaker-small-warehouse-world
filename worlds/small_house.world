@@ -34,6 +34,12 @@
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
 
+    <!-- A ground plane -->
+    <include>
+      <uri>model://ground_plane</uri>
+      <pose frame=''>0 0 -0.001 0 0 0</pose>
+    </include>
+
   <model name='AirconditionerA_01_001'>
         <static>true</static>
         <include>
