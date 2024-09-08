@@ -34,6 +34,11 @@
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
 
+    <!-- Camera control plugin -->
+    <include>
+      <uri>model://camera_control</uri>
+    </include>
+
     <!-- A ground plane -->
     <include>
       <uri>model://ground_plane</uri>
